@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alybcna
 - 👀 I’m interested in creating a website
-- 🌱 I’m currently learning HTML, CSS and C language
-- 📫 You can email me at alyssaatibula@gmail.com
+- 🌱 I’m currently learning HTML, CSS, JS and C language
+- 📫 You can email me at alyssabacunawa2004@gmail.com
 - 😄 Pronouns: She/her
 
 
